@@ -56,7 +56,7 @@ const About = () => {
                 passion for transforming education. It all began with a group of
                 educators, technologists, and lifelong learners who recognized
                 the need for accessible, flexible, and high-quality learning
-                opportunities in a rapidly evolving digital world.
+                opportunities in a rapidly evolving digital world .It is one of the best education platform .
               </p>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
                 As experienced educators ourselves, we witnessed firsthand the
