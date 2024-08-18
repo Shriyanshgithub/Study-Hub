@@ -25,7 +25,7 @@ const About = () => {
               Studynotion is at the forefront of driving innovation in online
               education. We're passionate about creating a brighter future by
               offering cutting-edge courses, leveraging emerging technologies,
-              and nurturing a vibrant learning community.
+              and nurturing a vibrant learning communitydfmodg.
             </p>
           </header>
           <div className="sm:h-[70px] lg:h-[150px]"></div>
